@@ -14,7 +14,7 @@ Install dependencies using pip install -r requirements.txt
 
 ### How to Run
 1. Clone this repository:
-git clone https://github.com/your-username/audio-translator-app.git
+git clone https://github.com/Anjureddyk/Audio_Translator_Using_gtts.git
 
 2. Navigate to the project directory:
 cd audio-translator-app
